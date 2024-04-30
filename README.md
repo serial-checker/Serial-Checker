@@ -1,10 +1,6 @@
 - 👋 Hi, I’m [@Serial-Checker](https://github.com/Serial-Checker)
 - 👀 I’m interested in Discord Tools
 - 🌱 I’m currently learning Discord.js / Python
-  
-     ![](https://komarev.com/ghpvc/?username=jai707&color=blueviolet)
- 
- 
  
 ---
 
