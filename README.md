@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [@Serial-Checker](https://github.com/Serial-Checker)
-- 👀 I’m interested in Discord Tools
-- 🌱 I’m currently learning Discord.js / Python
+- 👀 I’m interested in Fivem Server Actualy
+- 🌱 I’m currently learning lUA 
  
 ---
 
