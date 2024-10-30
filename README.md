@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [@Serial-Checker](https://github.com/Serial-Checker)
-- 👀 I’m interested in Fivem Server Actualy
+- 👀 I am currently interested in the fivem servers currently
 - 🌱 I’m currently learning LUA 
  
 ---
