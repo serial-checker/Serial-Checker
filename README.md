@@ -9,20 +9,20 @@
 
 - 🔭 I’m currently working on [My Fivem Server](https://discord.gg/juHhmWtyV5)
 
-- 💬 Ask me about **Iam a**
+- 💬 Ask me about Ask me questions on my discord if you are looking for help on any kind of topic
 
 - 🌱 I’m currently learning **LUA**
 
 - ⚡ Fun fact **Im Realy Funny :)**
 
-- 📫 How to reach me **https://discord.gg/sensity**
+- 📫 How to reach me **https://discord.gg/sensity** I am very active here at the moment
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/serial_checker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="serial_checker" height="30" width="40" /></a>
 <a href="https://instagram.com/serial__checker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="serial__checker" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/serial_checker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="serial_checker" height="30" width="40" /></a>
-<a href="https://discord.gg/juHhmWtyV5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="juHhmWtyV5" height="30" width="40" /></a>
+<a href="https://discord.gg/XatcCeXBa9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="juHhmWtyV5" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
