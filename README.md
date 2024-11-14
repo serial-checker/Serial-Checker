@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Djibril</h1>
+<h1 align="center">Hi 👋, I'm Djibril aka serial_checker</h1>
 <h3 align="center">Acquired language : Java, Python, HTML, I am currently learning LUA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serial-checker&label=Profile%20views&color=0e75b6&style=flat" alt="serial-checker" /> </p>
