@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/serial_checker" target="blank"><img src="https://img.shields.io/twitter/follow/serial_checker?logo=twitter&style=for-the-badge" alt="serial_checker" /></a> </p>
 
-- 🔭 I’m currently working on [My Fivem Server](https://discord.gg/juHhmWtyV5)
-
 - 💬 Ask me about Ask me questions on my discord if you are looking for help on any kind of topic
 
 - 🌱 I’m currently learning **LUA**
